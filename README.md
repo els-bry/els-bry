@@ -1,6 +1,6 @@
 ### Eae pessoal! 👋
 
-Esse perfil é temporário, por ser para aulas, mas se quiserem ajudar com a área de JavaScript, fico feliz
+Esse perfil é temporário, por ser para aulas, mas se quiserem ajudar com a área de JavaScript e outras mais, fico feliz
 
 - Contato:00001107025242sp@al.educacao.sp.gov.br
 
